@@ -1,4 +1,6 @@
 # Ejemplo Parcial Práctico 1
+Zair Montoya Bello 
+202321067
 
 ## Instrucciones
 
